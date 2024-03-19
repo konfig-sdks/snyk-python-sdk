@@ -1,10 +1,10 @@
-<div align="center">
+<div align="left">
 
 [![Visit Snyk](./header.png)](https://docs.snyk.io&#x2F;snyk-api&#x2F;snyk-rest-api-overview)
 
 # Snyk<a id="snyk"></a>
 
-Missing description placeholder
+Snyk helps software-driven businesses develop fast and stay secure. Continuously find and fix vulnerabilities for npm, Maven, NuGet, RubyGems, PyPI and more.
 
 
 </div>
@@ -1642,7 +1642,7 @@ The ID for the next page of results.
 
 ##### _from: `date`<a id="_from-date"></a>
 
-The start date (inclusive) of the audit logs search. Example: 2023-07-27 
+The start date (inclusive) of the audit logs search. If this is not specified, the start of yesterday is used. Example: 2023-07-27 
 
 ##### to: `date`<a id="to-date"></a>
 
@@ -1796,7 +1796,7 @@ The ID for the next page of results.
 
 ##### _from: `date`<a id="_from-date"></a>
 
-The start date (inclusive) of the audit logs search. Example: 2023-07-27 
+The start date (inclusive) of the audit logs search. If this is not specified, the start of yesterday is used. Example: 2023-07-27 
 
 ##### to: `date`<a id="to-date"></a>
 
